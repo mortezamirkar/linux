@@ -126,7 +126,7 @@ Software requirements
 Build directory for the kernel
 ------------------------------
 
-   When compiling the kernel, all output files will per default be
+   When compiling the kernel, all output files will by default be
    stored together with the kernel source code.
    Using the option ``make O=output/dir`` allows you to specify an alternate
    place for the output files (including .config).
